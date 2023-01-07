@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Ferry
+comment0.text=\r\n\ A\ ferry\ provides\ a\ one-way\ journey\ between\ two\ islands.\ It\r\n\ has\ a\ ferry\ code\ and\ information\ about\ both\ the\ source\ and\r\n\ the\ destination\ island\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=code\ source\ destination
+comment1.target=Ferry(java.lang.String,\ Island,\ Island)
+comment2.params=
+comment2.target=java.lang.String\ getCode()
+comment2.text=\ This\ fucntion\ returns\ the\ ferry\ code\ \ \ \ \ \r\n\ @return\ a\ String\r\n
+comment3.params=
+comment3.target=Island\ getSource()
+comment3.text=\ This\ fucntion\ returns\ the\ source\ island\ \ \ \ \r\n\ @return\ Island\r\n
+comment4.params=
+comment4.target=Island\ getDestination()
+comment4.text=This\ function\ returns\ the\ destination\ island\ \ \ \ \r\n\ @return\ Island\r\n
+comment5.params=card
+comment5.target=boolean\ canUseFerry(Card)
+comment5.text=\ This\ function\ ensures\ if\ a\ card\ can\ use\ this\ ferry\r\n\ @param\:\ Card\r\n\ @return\ a\ boolean\r\n
+comment6.params=card
+comment6.target=java.lang.String\ processTransaction(Card)
+comment6.text=\ This\ function\ process\ transaction\ if\ a\ journey\ is\ possible\ through\ this\ ferry\ \ \ \ \ \r\n\ @param\:\ Card\r\n\ @return\ a\ String\r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=Returns\ the\ string\ for\ ferry\ format\ \ \ \r\n\ @return\ a\ string\r\n
+numComments=8

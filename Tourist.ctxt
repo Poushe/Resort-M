@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Tourist
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TouristCard\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=cardId\ ownerName\ luxaryRating\ credits\ citizenship
+comment1.target=Tourist(int,\ java.lang.String,\ int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructo\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
